@@ -63,7 +63,11 @@ I enjoy designing timing-accurate, resource-efficient hardware systems and explo
 
 ### 📊 GitHub Stats
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhanbut&layout=compact&theme=tokyonight"/>
+  <img height="150px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhanbut&exclude_repo=baekjoon&layout=compact&theme=tokyonight"/>
+</p>
+
+
 </p>
 
 ---
